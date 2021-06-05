@@ -7,7 +7,7 @@ return [
     'Add Bot' => 'Añadir Bot',
     'Add a Tag' => 'Añadir una Etiqueta',
     'Add <b>CREATE_INSTANT_INVITE</b> and <b>SEND_MESSAGES</b> permissions to DISBOARD bot.' => 'Otorga los permisos <b>CREAR_INVITACIÓN_INSTANTÁNEA</b> y <b>ENVIAR_MENSAJES</b> al bot de DISBOARD.',
-    'Admin response' => 'Respuesta',
+    'Admin response' => 'Respuesta del administrador',
     'Admin servers' => 'Servidores administrados',
     'After that send this command: <span class="tag is-light">!d refresh</span>' => 'Después ejecuta este comando: <span class="tag is-light">!d refresh</span>',
     'All Discord reviews' => 'Todas las reseñas',
